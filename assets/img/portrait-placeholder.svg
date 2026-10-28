@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- A simple silhouette, standing in until a real photo is added -->
+  <rect width="400" height="400" fill="#EEF1F6"/>
+  <circle cx="200" cy="158" r="70" fill="#C9D3E1"/>
+  <path d="M64 400c6-86 64-138 136-138s130 52 136 138z" fill="#C9D3E1"/>
+  <path d="M168 270h64l-32 44z" fill="#FFFFFF"/>
+  <path d="M200 282l-9 14 9 76 9-76z" fill="#1F7A8C"/>
+</svg>
